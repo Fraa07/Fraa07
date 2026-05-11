@@ -69,35 +69,6 @@ performant, maintainable code — and about understanding the infrastructure tha
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [⚡ FastSort Benchmark](https://github.com/yourusername/fastsort) | High-performance sorting library with SIMD optimizations and multi-threading benchmarks | `C++17` `CMake` `STL` |
-| [🔷 TaskFlow Manager](https://github.com/yourusername/taskflow) | WPF desktop task management app with Kanban board and SQLite persistence | `C#` `.NET 8` `WPF` `SQLite` |
-| [☕ LibraryAPI REST](https://github.com/yourusername/libraryapi) | RESTful library management API with JWT auth and full Swagger documentation | `Java` `Spring Boot` `MySQL` |
-| [🌐 HotelBook Web App](https://github.com/yourusername/hotelbook) | Full-stack hotel booking website with dynamic calendar and responsive design | `JavaScript` `PHP` `MySQL` |
-| [🏗️ Enterprise Net Lab](https://github.com/yourusername/netlab) | Cisco Packet Tracer enterprise network with VLANs, VPN, DMZ, and ACL policies | `Cisco IOS` `VLAN` `VPN` |
-| [📦 WarehouseOS](https://github.com/yourusername/warehouseos) | Warehouse management desktop app for microenterprises with PDF reporting | `C#` `.NET` `WinForms` `SQLite` |
-
----
-
-## 🗺️ Skills Roadmap
-
-```
-✅ Mastered          ⟳ In Progress       ◎ Coming Soon
-──────────────────────────────────────────────────────
-✅ C++ Systems       ⟳ React / TS        ◎ AWS / Cloud
-✅ C# / .NET         ⟳ Docker            ◎ Kubernetes
-✅ Java / Spring     ⟳ REST Architecture ◎ CompTIA Net+
-✅ HTML/CSS/JS       ⟳ Algorithms & DSA  ◎ System Design
-✅ Enterprise Nets   ⟳ Git Workflows     ◎ ML Basics
-```
-
----
-
 ## 🔭 Currently Learning
 
 - ⚛️ **React & TypeScript** — modern frontend architecture
