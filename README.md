@@ -12,9 +12,9 @@
 
 ```cpp
 const Developer alex = {
-    .name       = "Alex Rossi",
+    .name       = "Francesco Podavini",
     .location   = "Italy 🇮🇹",
-    .education  = "IT Diploma (Maturità Informatica) 2025",
+    .education  = "IT Diploma (Maturità Informatica) 2026",
     .status     = "Open to Work — Junior Dev / Freelance",
     .languages  = {"C++", "C#", "Java", "JavaScript", "PHP", "SQL"},
     .interests  = {"Systems Programming", "Frontend Dev", "Networking"},
